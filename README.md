@@ -1,4 +1,4 @@
-![logo](https://github.com/MingChaoXu/Fog_And_Haze_Prediction/blob/master/docs/logo.png)
+<div align=center><img width="500" height="350" src="https://github.com/MingChaoXu/Fog_And_Haze_Prediction/blob/master/docs/logo.png"/></div>
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MingChaoXu/Fog_And_Haze_Prediction/blob/master/LICENSE) 
 ![Build Status](https://img.shields.io/appveyor/ci/gruntjs/grunt/master.svg)
 # Fog_And_Haze_Prediction
@@ -21,6 +21,6 @@ $ cd ..
 $ python main.py
 ```
 # sample
-![result](https://github.com/MingChaoXu/Fog_And_Haze_Prediction/blob/master/result.png)
+<div align=center><img width="500" height="350" src="https://github.com/MingChaoXu/Fog_And_Haze_Prediction/blob/master/result.png"/></div>
 red: prediction
 blue: target
