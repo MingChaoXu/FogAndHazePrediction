@@ -1,4 +1,4 @@
-<div align=center><img width="400" height="150" src="https://github.com/MingChaoXu/Fog_And_Haze_Prediction/blob/master/docs/logo.png"/></div>
+<div align=center><img width="200" height="150" src="https://github.com/MingChaoXu/Fog_And_Haze_Prediction/blob/master/docs/logo.png"/></div>
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MingChaoXu/Fog_And_Haze_Prediction/blob/master/LICENSE) 
 ![Build Status](https://img.shields.io/appveyor/ci/gruntjs/grunt/master.svg)
 # Fog_And_Haze_Prediction
