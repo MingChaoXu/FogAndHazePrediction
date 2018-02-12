@@ -1,8 +1,7 @@
-# FogAndHazePrediction
-![](https://github.com/hualin95/Everyone_Is_Van_Gogh/blob/master/docs/logo.png)
+![](https://github.com/MingChaoXu/Fog_And_Haze_Prediction/tree/master/docs/logo.png)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hualin95/Everyone_Is_Van_Gogh/blob/master/LICENSE) 
 ![Build Status](https://img.shields.io/appveyor/ci/gruntjs/grunt/master.svg)
-# Everyone_Is_Van_Gogh
+# Fog_And_Haze_Prediction
 Everyone_Is_Van_Gogh is a tensorflow implementation of style transfer which described in the next paper:
 * [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576v2.pdf)
 And I use VGG19 which was proposed in this paper:
@@ -10,11 +9,8 @@ And I use VGG19 which was proposed in this paper:
 To use the VGG19 networks, you have to download the npy files for VGG19 NPY from [here](https://mega.nz/#!xZ8glS6J!MAnE91ND_WyfZ_8mvkuSa2YcA7q-1ehfSm-Q1fxOvvs).
 
 # Environment
-* 1.tensorflow v1.4
-* 2.Cudnn v6.0
-* 3.Python v3.6 
-* 4.Python packages:numpy,PIL,scipy
-* 4.Bash(git、ssh)
+* 1.Python v3.6 
+* 2.Python packages:pandas,xgboost,matplotlib,xlrd,csv
 
 # Getting Started
 * 1.Clone this project : `git clone git@github.com:hualin95/Everyone_Is_Van_Gogh.git`
