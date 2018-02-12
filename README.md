@@ -1,4 +1,4 @@
-![](https://github.com/MingChaoXu/Fog_And_Haze_Prediction/tree/master/docs/logo.png)
+![logo](https://github.com/MingChaoXu/Fog_And_Haze_Prediction/blob/master/docs/logo.png)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MingChaoXu/Fog_And_Haze_Prediction/blob/master/LICENSE) 
 ![Build Status](https://img.shields.io/appveyor/ci/gruntjs/grunt/master.svg)
 # Fog_And_Haze_Prediction
